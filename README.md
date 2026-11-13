@@ -100,18 +100,6 @@ Practice history is browser-specific and may be lost if browser site data is cle
 
 The main objective of CareerFlix AI is to help students practice interview questions, improve their communication and answer structure, and monitor their preparation journey through an interactive platform.
 
-## 📸 Application Screenshots
-
-### Interview Practice
-![Interview Practice](interview.png)
-
-### Progress Dashboard
-![Progress Dashboard](progress.png)
-
-## 👩‍💻 Developer
-
-**Yashvi Agarwal**
-
 GitHub: [Yashvi-1914](https://github.com/Yashvi-1914)
 
 ## 📌 Repository
@@ -121,3 +109,14 @@ GitHub: [Yashvi-1914](https://github.com/Yashvi-1914)
 ---
 
 ⭐ If you find this project interesting, consider giving the repository a star!
+
+## 📸 Application Screenshots
+
+### Interview Practice
+![Interview Practice](interview.png)
+
+### Progress Dashboard
+![Progress Dashboard](progress.png)
+
+## 👩‍💻 Developer
+**Yashvi Agarwal**
