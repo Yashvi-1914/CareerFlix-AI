@@ -100,6 +100,14 @@ Practice history is browser-specific and may be lost if browser site data is cle
 
 The main objective of CareerFlix AI is to help students practice interview questions, improve their communication and answer structure, and monitor their preparation journey through an interactive platform.
 
+## 📸 Application Screenshots
+
+### Interview Practice
+![Interview Practice](interview.png)
+
+### Progress Dashboard
+![Progress Dashboard](progress.png)
+
 ## 👩‍💻 Developer
 
 **Yashvi Agarwal**
