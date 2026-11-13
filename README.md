@@ -113,10 +113,10 @@ GitHub: [Yashvi-1914](https://github.com/Yashvi-1914)
 ## 📸 Application Screenshots
 
 ### Interview Practice
-![Interview Practice](interview.png)
+![Interview Practice](interview.png.png)
 
 ### Progress Dashboard
-![Progress Dashboard](progress.png)
+![Progress Dashboard](progress.png.png)
 
 ## 👩‍💻 Developer
 **Yashvi Agarwal**
